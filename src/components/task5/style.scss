@@ -1,0 +1,11 @@
+.to-do-card{
+    padding: 15px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    box-shadow: 0 2px 2px 2px rgba(0, 0, 0, 0.2);
+    width: 200px;
+
+    &.completed{
+        background-color: greenyellow;
+    }
+}
